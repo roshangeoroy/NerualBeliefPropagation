@@ -1,2 +1,1 @@
-# NerualBeliefPropagation
-An implementation of a Gated Rnn Cell to Decode LBC codes.
+Using the open source library Sionna {NVLABS} , comparing performance of BCH codes on a classic Belief Propagation Decoder and a Trained Weighted Belief Propagation Decoder. This is done as part of Mini Project of semester 7 of KTU university for the awarding of Minor Degree Certificate in Machine Learning.
